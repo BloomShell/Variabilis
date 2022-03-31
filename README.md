@@ -1,2 +1,2 @@
-# volatility
+# Variabilis
 Volatility estimators &amp; models
